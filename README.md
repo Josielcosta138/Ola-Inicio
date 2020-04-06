@@ -1,5 +1,5 @@
 # Olá, Inicio!
- Primeiro repositorio do Curso GitHub
+Iniciando meu primeiro Repositório, (Fullstack)...
 
 Reepositório criado duranto Curso GIT...
 
